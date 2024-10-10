@@ -1,176 +1,222 @@
-# Preview [https://github.com/premierstacks/typescript-stack](https://github.com/premierstacks/typescript-stack)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/typescript-stack** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks/typescript-stack](https://github.com/premierstacks/typescript-stack)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/typescript-stack** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/typescript-stack](https://github.com/premierstacks/typescript-stack)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/typescript-stack**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/typescript-stack](https://github.com/premierstacks/typescript-stack)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
+
+**Original content starts here!**
+
+---
+
 # [TypeScript Stack](https://github.com/premierstacks/typescript-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Enhance TypeScript projects with our Config: streamlined setup embracing the latest features and best practices for superior code quality. Ideal for all TypeScript-based development.
+✨ _**Clone and Win!**_
 
-Our TypeScript Stack provides an optimized set of configurations, leveraging the latest TypeScript features to enhance code quality and developer experience. Designed for rapid integration, it offers a shortcut to adopting best practices in TypeScript development, ensuring your projects are built on a future-proof foundation. With minimal setup required, it aims to enforce strict type-checking and utilize modern JavaScript features, making your code robust and maintainable. Regularly updated to reflect the evolving TypeScript ecosystem, this config is a reliable tool for developers seeking to elevate their TypeScript projects to new heights of quality and maintainability.
+The TypeScript Stack provides pre-configured TypeScript setups that simplify the integration of TypeScript into your projects, whether you are working with a standalone application or a library within a Webpack environment. It streamlines your development workflow, enabling you to focus on coding rather than configuration.
 
-## 👌 Top Reasons to Opt for Our Premium TypeScript Stack
+## What is TypeScript Stack?
 
-By integrating our Premium TypeScript Stack into your development process, you not only streamline your TypeScript setup but also ensure that your projects are developed with the best practices in mind, setting a new standard for excellence in TypeScript development.
+The TypeScript Stack is part of the Premierstacks collection and serves as a robust solution for managing TypeScript configurations across different project types. It offers ready-to-use templates that cater to various environments, including browser-based applications, server-side Node.js projects, and hybrid setups using Webpack. These configurations are designed to support complex build processes and ensure consistency throughout your codebase.
 
-### ⏱️ Setup in Just 5 Minutes
+Each template within the stack is tailored to specific use cases, allowing you to choose the best fit based on your project’s needs—be it a frontend application, a backend service, or a shared library. With strict typing enabled and options like React integration, the TypeScript Stack helps prevent common errors and enforces strong type checking, making it an ideal choice for large-scale projects that require maintainable and reliable code.
 
-Embark on TypeScript projects with ease using our premium TypeScript Stack. Designed for rapid integration, this configuration enables you to leverage the latest TypeScript features and best practices right from the start, saving valuable setup time.
+Using the TypeScript Stack eliminates the time-consuming process of creating and maintaining tsconfig.json files from scratch. You can leverage its predefined setups to enforce best practices, ensuring that your TypeScript code is consistent, secure, and aligned with industry standards across multiple projects and teams.
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+## What is Tomchochola
 
-Our TypeScript Stack is the product of extensive research into TypeScript's evolving ecosystem. By choosing our configuration, you gain access to a refined set of rules and settings that embody the collective wisdom of the TypeScript community, ensuring your projects are built on a solid, future-proof foundation.
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
-### 🎚️ Minimal Setup, Maximum Code Quality
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-Achieve the highest standards of code quality with minimal effort. Our optimized TypeScript settings and advanced compiler options are tailored to enforce strict type-checking and utilize modern JavaScript features, enhancing the robustness and maintainability of your code.
+## What is Premierstacks
 
-### 📘 Zero Expertise Required
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
-Whether you're a TypeScript veteran or new to the language, our Config is designed for accessibility and ease of use. This ensures that developers of all skill levels can benefit from advanced type-checking and modern development practices without the complexity.
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-### 🔄 Continuously Updated
+## Why Premierstacks?
 
-Stay ahead of the curve in the fast-paced world of TypeScript development. Our TypeScript Stack is regularly updated to incorporate the latest advancements, ensuring your projects always adhere to cutting-edge practices and standards.
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-### ⚔️ Battle-Tested Reliability
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-Depend on a TypeScript Stack that has been rigorously tested across a wide range of projects. From small libraries to large-scale applications, our configuration delivers consistent, error-free results, enhancing the reliability of your TypeScript code.
+### Why You Should Choose Premierstacks
 
-### 🏆 Premier Quality Guarantee
+**🚀 Unmatched Quality**
 
-Choosing our TypeScript Stack reflects your commitment to code quality and developer experience. This tool is more than just a set of rules; it's a comprehensive approach to TypeScript development that sets your projects apart in terms of quality, safety, and maintainability.
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-## 🛡️ License & Usage
+**⚙️ No Setup Hassles**
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+**📦 Reuse Across Projects**
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+**🔒 Exclusive Resources**
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-### Acquiring a License
+**🛠️ Always Up-to-Date**
 
-To use this software, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+Receive continuous updates and new features, keeping your projects current.
 
-## 🖍️ Highlights
+**💪 Expert Creators**
 
-- **Optimized TypeScript Settings**: Integrates the "@tsconfig/recommended" base configuration with enhancements for modern TypeScript development.
-- **Advanced Compiler Options**: Tailored compiler options focusing on strict type-checking and modern JavaScript features for robust and error-free code.
-- **Seamless Integration**: Designed for easy integration into any TypeScript project, providing immediate benefits with minimal setup.
-- **Comprehensive Type Coverage**: Includes type definitions for React and DOM to support a wide range of web development projects.
-- **Strictness and Safety**: Adopts strict compiler flags to ensure code safety, maintainability, and adherence to best practices.
+Developed by experienced professionals dedicated to quality and excellence.
 
-## 🎨 Available Configuration Presets
+## License
 
-Choose from a variety of preconfigured presets:
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-- **recommended**: An enhanced TypeScript Stackuration extending "@tsconfig/recommended" with additional compiler options for strict type checking and modern development practices.
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-## 🎬 Get Started
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-### 1️⃣ License Acquisition
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+## Templates
 
-### 2️⃣ Package Installation
+Explore the predefined templates for various configurations in the [/templates](/templates) directory. These templates provide quick-start setups for different environments.
 
-```shell
+**[/templates/browser_webpack_react_app.template](/templates/browser_webpack_react_app.template)**<br />
+**[/templates/browser_webpack_react_library.template](/templates/browser_webpack_react_library.template)**<br />
+**[/templates/browser_webpack_app.template](/templates/browser_webpack_app.template)**<br />
+**[/templates/browser_webpack_library.template](/templates/browser_webpack_library.template)**<br />
+**[/templates/node_webpack_react_app.template](/templates/node_webpack_react_app.template)**<br />
+**[/templates/node_webpack_react_library.template](/templates/node_webpack_react_library.template)**<br />
+**[/templates/node_webpack_app.template](/templates/node_webpack_app.template)**<br />
+**[/templates/node_webpack_library.template](/templates/node_webpack_library.template)**<br />
+
+## Getting Started
+
+**1. Review the documentation and license**
+
+Ensure this package fits your needs and that you agree with the terms.
+
+**2. Obtain a license**
+
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
+
+**3. Install the package**
+
+Install using npm:
+
+```bash
 npm install --save-dev github:premierstacks/typescript-stack
 ```
 
-### 3️⃣ Configuration
+**4. Select a template**
 
-Initialize your `tsconfig.json`:
+Choose one of the predefined configuration templates from the [/templates](/templates) directory that best suits your project’s needs.
 
-```js
-{
-  "extends": "@premierstacks/typescript-stack/src/configs/recommended.json",
-  "include": ["./src/**/*"],
-  "compilerOptions": {
-    "outDir": "./dist"
-  }
-}
+Use the `cp` command to copy it into your project as `/tsconfig.json`:
+
+```bash
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react_app.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_react_library.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_app.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/browser_webpack_library.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_react_app.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_react_library.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_app.template ./tsconfig.json
+# or
+cp ./node_modules/@premierstacks/typescript-stack/templates/node_webpack_library.template ./tsconfig.json
 ```
 
-### 4️⃣ Attribution
+**5. CLI**
 
-Please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+Execute commands:
 
-### 5️⃣ Usage
-
-```shell
-# To transpile TypeScript code
+```bash
+# automatically fix code style issues
 ./node_modules/.bin/tsc
 
-# To check types without emitting files
+# perform static analysis
 ./node_modules/.bin/tsc --noEmit
 ```
 
-## The Author: Tomáš Chochola
+**4. See the samples**
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+Explore the samples in the [/samples](/samples) directory to see how to use the package in various scenarios.
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+**5. Use the package**
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Start using the package in your project.
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+## About the Creator
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
 
-## 💰 Empower Innovation: Support and Subscribe
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+### Specializations
 
-## 🤝 Join Forces with Tomáš Chochola
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+## Contact
+
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
+
+## Tree
+
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
+
+```bash
+.
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── eslint.config.js
+├── package.json
+├── prettier.config.js
+├── src
+│   └── configs
+│       ├── browser_webpack_app.json
+│       ├── browser_webpack_library.json
+│       ├── browser_webpack_react_app.json
+│       ├── browser_webpack_react_library.json
+│       ├── node_webpack_app.json
+│       ├── node_webpack_library.json
+│       ├── node_webpack_react_app.json
+│       └── node_webpack_react_library.json
+└── templates
+    ├── browser_webpack_app.template
+    ├── browser_webpack_library.template
+    ├── browser_webpack_react_app.template
+    ├── browser_webpack_react_library.template
+    ├── node_webpack_app.template
+    ├── node_webpack_library.template
+    ├── node_webpack_react_app.template
+    └── node_webpack_react_library.template
+
+3 directories, 23 files
+```

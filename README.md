@@ -191,6 +191,10 @@ The following is a breakdown of the folder and file structure within this reposi
 
 ```bash
 .
+├── .editorconfig
+├── .gitattributes
+├── .gitignore
+├── .prettierignore
 ├── AUTHORS.md
 ├── LICENSE.md
 ├── Makefile
@@ -218,5 +222,5 @@ The following is a breakdown of the folder and file structure within this reposi
     ├── node_webpack_react_app.template
     └── node_webpack_react_library.template
 
-3 directories, 23 files
+3 directories, 27 files
 ```
